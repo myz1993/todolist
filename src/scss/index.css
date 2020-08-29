@@ -1,0 +1,27 @@
+section.addItem {
+  display: flex; }
+  section.addItem input {
+    padding: 10px;
+    outline: 0;
+    font-size: 16px;
+    margin-right: 16px; }
+  section.addItem button {
+    border: 0;
+    background-color: grey;
+    color: white;
+    width: 100px;
+    cursor: pointer;
+    outline: 0; }
+
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box; }
+
+main {
+  border: 1px solid red;
+  display: flex;
+  flex-direction: column;
+  align-items: center; }
+
+/*# sourceMappingURL=index.css.map */
